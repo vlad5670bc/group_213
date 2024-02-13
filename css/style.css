@@ -4,9 +4,6 @@
     color: rgb(99, 165, 0);
     border: solid 3px black ;
     display: inline;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding: 10px 10px 10px 10px;
     text-align: center;
 }
